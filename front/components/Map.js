@@ -1,6 +1,6 @@
 import React, {useEffect, setState, useRef} from 'react'
 import { loadModules } from 'esri-loader';
-import requests from '../data/requests.json'
+import requests from '../data/geojson.json'
 
 let key = process.env.NEXT_PUBLIC_ESRI_API_KEY
 
@@ -20,8 +20,10 @@ export default function Map() {
     .then(function ([esriConfig, Map, MapView, GeoJSONLayer, Locate, Track, Graphic, Legend]){
                 esriConfig.apiKey = key
         
-                const stl311 = new Blob([JSON.stringify(requests)], {type: "application/json"});
-                const url = URL.createObjectURL(stl311);
+                const requestBlob = new Blob([JSON.stringify(requests)], {type: "application/json"});
+                const url = URL.createObjectURL(requestBlob);
+
+                console.log(url)
 
                 const requestResults = new GeoJSONLayer({
                         url: url,
@@ -31,7 +33,7 @@ export default function Map() {
 
                 const map = new Map({
                         basemap: "arcgis-light-gray", // Basemap layer service
-                        layers: []
+                        layers: [requestResults]
                     });
 
 
