@@ -23,11 +23,52 @@ export default function Map() {
                 const requestBlob = new Blob([JSON.stringify(requests)], {type: "application/json"});
                 const url = URL.createObjectURL(requestBlob);
 
-                console.log(url)
-
                 const requestResults = new GeoJSONLayer({
                         url: url,
+                        popupTemplate: {
+                            title: "Open311 Status",
+                            content: [
+                                {
+                                    type: "fields",
+                                    fieldInfos: [
+                                        {
+                                            fieldName: "STATUS",
+                                            visible: true,
+                                            label: "Status",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: true
+                                        }},
+                                        {
+                                            fieldName: "DESCRIPTION",
+                                            visible: true,
+                                            label: "Description",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: true
+                                        }},
+                                        {
+                                            fieldName: "REQUESTED_DATETIME",
+                                            visible: true,
+                                            label: "Request Date",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: true
+                                        }},
+                                        {
+                                            fieldName: "STATUS_NOTES",
+                                            visible: true,
+                                            label: "Status Notes",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: true
+                                        }},
+                                        
+                                    ]
+                                }]
+                            }
                 })
+
 
                 // requestResults.renderer = electionRender
 
