@@ -23,8 +23,32 @@ export default function Map() {
                 const requestBlob = new Blob([JSON.stringify(requests)], {type: "application/json"});
                 const url = URL.createObjectURL(requestBlob);
 
+
+                var requestRenderer = {
+                    type: "unique-value",  // autocasts as new UniqueValueRenderer()
+                    field: "STATUS",
+                    uniqueValueInfos: [{
+                      // All features with value of "North" will be blue
+                      value: "OPEN",
+                      symbol: {
+                        type: "simple-marker",  // autocasts as new SimpleFillSymbol()
+                        color: "green",
+                        size: 5
+                      }
+                    }, {
+                      // All features with value of "East" will be green
+                      value: "CLOSED",
+                      symbol: {
+                        type: "simple-marker",  // autocasts as new SimpleFillSymbol()
+                        color: "orange",
+                        size: 5
+                      }
+                    }]
+                  };
+
                 const requestResults = new GeoJSONLayer({
                         url: url,
+                        renderer: requestRenderer,
                         popupTemplate: {
                             title: "Open311 Status",
                             content: [
@@ -67,14 +91,34 @@ export default function Map() {
                                     ]
                                 }]
                             }
+                });
+
+                const neighborhoods = new GeoJSONLayer({
+                    url: 'https://raw.githubusercontent.com/AvidDabbler/STL-GeoJson-Data/main/Neighborhood_Boundaries.json',
+                    renderer: {
+                        type: "simple",
+                        symbol: {
+                            type: "simple-fill",
+                            color: [0,0,0,0],
+                            outline: {
+                                width: 1,
+                                color: 'black',
+                                style: 'dot'
+                            }
+                        }
+                      }
                 })
+                  
 
 
                 // requestResults.renderer = electionRender
 
                 const map = new Map({
                         basemap: "arcgis-light-gray", // Basemap layer service
-                        layers: [requestResults]
+                        layers: [
+                            neighborhoods,
+                            requestResults, 
+                        ]
                     });
 
 
@@ -101,22 +145,7 @@ export default function Map() {
                       return view.goTo(options.target);
                     }
                 });
-                const track = new Track({
-                    view: view,
-                    graphic: new Graphic({
-                      symbol: {
-                        type: "simple-marker",
-                        size: "12px",
-                        color: "green",
-                        outline: {
-                          color: "#efefef",
-                          width: "1.5px"
-                        }
-                      }
-                    }),
-                    useHeadingEnabled: false
-                  });
-
+                
                 var legend = new Legend({
                     view: view,
                     layerInfos: [{
