@@ -49,6 +49,7 @@ export default function Map() {
                 const requestResults = new GeoJSONLayer({
                         url: url,
                         renderer: requestRenderer,
+                        outfields: ["*"],
                         popupTemplate: {
                             title: "Open311 Status",
                             content: [
@@ -78,18 +79,68 @@ export default function Map() {
                                             format: {
                                               places: 0,
                                               digitSeparator: true
-                                        }},
+                                        }},  
                                         {
-                                            fieldName: "STATUS_NOTES",
+                                            fieldName: "DESCRIPTION",
                                             visible: true,
-                                            label: "Status Notes",
+                                            label: "Description",
                                             format: {
                                               places: 0,
                                               digitSeparator: true
-                                        }},
+                                        }},   
+                                        {
+                                            fieldName: "ADDRESS",
+                                            visible: true,
+                                            label: "Address",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: true
+                                        }},   
+                                        {
+                                            fieldName: "ZIPCODE",
+                                            visible: true,
+                                            label: "Zip Code",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: false
+                                        }},   
+                                        {
+                                            fieldName: "AGENCY_RESPONSIBLE",
+                                            visible: true,
+                                            label: "Assigned Agency",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: false
+                                        }},   
+                                        {
+                                            fieldName: "SERVICE_NOTICE",
+                                            visible: true,
+                                            label: "Full Description",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: false
+                                        }},   
+                                        {
+                                            fieldName: "STREETVIEW",
+                                            visible: true,
+                                            label: "Streetview",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: false
+                                        }},   
+                                        {
+                                            fieldName: "DIRECTIONS",
+                                            visible: true,
+                                            label: "Directions",
+                                            format: {
+                                              places: 0,
+                                              digitSeparator: false
+                                        }},   
+                                        
                                         
                                     ]
-                                }]
+                                },
+                            ]
                             }
                 });
 
@@ -125,7 +176,7 @@ export default function Map() {
                 const view = new MapView({
                     container: mapEl.current,
                     map: map,
-                    center: [-90.20, 38.65],
+                    center: [-90.27, 38.65],
                     zoom: 11,
                     popup:{
                         dockEnabled: true,
