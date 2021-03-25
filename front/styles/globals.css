@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.bottom-right-button {
+  z-index: 100;
+  position: absolute;
+  bottom: 5%;
+  right: 3%;
+}
+
+.new-request-form {
+  z-index: 101;
+  position: absolute;
+  background-color: aliceblue;
+  top: 0px;
+  left: 0px;
+  height: 100vh;
+  width: 100%;
+}

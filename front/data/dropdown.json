@@ -1,0 +1,195 @@
+{
+    "Air Pollution": {
+        "Asbestos": "Asbestos",
+        "Demo Blowing Dust": "Demo Blowing Dust",
+        "Fumes/Smells/Odors": "Fumes/Smells/Odors",
+        "Idling": "Idling",
+        "No response from DNR": "Other Air Pollution"
+    },
+    "Animals": {
+        "Animal Abuse": "Animal Abuse",
+        "Animal Bite": "Animal Bite",
+        "Bats": "Bats",
+        "Check Welfare": "Check Welfare ",
+        "Dangerous Animal": "Dangerous Animal",
+        "Dead Animal": "Dead Animal",
+        "Injured/Sick Animal": "Injured/Sick Animal",
+        "Leash Law": "Leash Law",
+        "Misc-Animal Care": "Misc-Animal Care",
+        "Prohibited Animal": "Prohibited Animal",
+        "Rats (Exterior)": "Rats (Exterior)",
+        "Stray Animal Cntnd": "Stray Animal Cntnd",
+        "Stray Cat": "Stray Cat",
+        "Stray Dog At Large": "Stray Dog At Large",
+        "Surrender Pet": "Surrender Pet",
+        "Wildlife Issue": "Wildlife Issue"
+    },
+    "Community Sanitation": {
+        "Child Center": "Child Center",
+        "Hazrds Waste": "Hazrds Waste",
+        "Insp Hotel, Int": "Insp Hotel, Int",
+        "Noise": "Noise"
+    },
+    "Courts/Tickets/Jail": {
+        "Inmate Complaint": "Inmate Complaint",
+        "Parking Meter": "Parking Meter",
+        "Parking Ticket": "Parking Ticket"
+    },
+    "Disability Issues": {
+        "Disabled Parking": "Disabled Parking",
+        "Inaccessible Facilty": "Inaccessible Facilty",
+        "Sidewalk Ramp": "Sidewalk Ramp",
+        "Sidewalk Repair": "Sidewalk Repair"
+    },
+    "Disaster Prep": {
+        "Sirens Not Heard": "Sirens Not Heard"
+    },
+    "Discrimination": {
+        "Housing Discrim": "Housing Discrim",
+        "Pub Accmdtn Discrim": "Pub Accmdtn Discrim"
+    },
+    "Fire Safety": {
+        "Fire Public Relation": "Fire Public Relations/Safety Detail",
+        "Open Burning": "Open Burning",
+        "Smoke/CO Alarm Req": "Request smoke/co alarm install"
+    },
+    "Food Control": {
+        "Food Estab. Problem": "Food Estab. Problem",
+        "Food worker ill": "Food worker ill",
+        "Foodbourne Illness": "Foodbourne Illness",
+        "Illegal Food Estbt": "Illegal Food Estbt",
+        "Insects Food Ctrl": "Insects Food Ctrl",
+        "Mold - Food Cntrl": "Mold - Food Cntrl",
+        "Problem with food": "Problem with food",
+        "Rats/Mice Food Ctrl": "Rats/Mice Food Ctrl",
+        "Trash/Grbage Fd Ctrl": "Trash/Grbage Fd Ctrl"
+    },
+    "Graffiti": {
+        "Containr damaged": "Container damaged",
+        "Graffiti-Illegal": "Illegal Graffiti",
+        "Graffiti-Park Equip": "Graffiti-Park Equip",
+        "Graffiti-Private": "Graffiti-Private",
+        "Graffiti-Prvt Dmpstr": "Graffiti-Prvt Dmpstr",
+        "Graffiti-Public": "Graffiti-Public",
+        "Misc-Op Brightside": "Misc-Op Brightside",
+        "Traffic Graffiti": "Traffic Graffiti"
+    },
+    "Information Calls": {
+        "Homeless Call": "Homeless Call",
+        "Refuse Svc Fee Call": "Refuse Svc Fee Call",
+        "Tent Encampment": "Tent Encampment"
+    },
+    "LRA": {
+        "LRA Board up": "LRA Board up",
+        "LRA Demo Submission": "LRA Demo Candidate Submission"
+    },
+    "Legal Claims": {
+        "Misc-City Counselor": "Misc-City Counselor",
+        "Property Damage-FOR": "Property Damage-FOR",
+        "Property Damage-LRA": "Property Damage-LRA",
+        "Property Damage-REF": "Property Damage-REF",
+        "Property Damage-SDP": "Property Damage-SDP",
+        "Property Damage-SDV": "Property Damage-SDV",
+        "Property Damage-TLD": "Property Damage-TLD",
+        "Property Damage-TOW": "Property Damage-TOW",
+        "WATER-CITZN-PROP-DAM": "WATER-CITZN-PROP-DAM"
+    },
+    "Miscellaneous": {
+        "COVID Business Viol": "COVID-19 Business Violation ",
+        "COVID Distance Viol": "COVID-19 Social Distancing Violation",
+        "COVID Individual Vio": "COVID-19 Individual Violation",
+        "Misc-Bd of Pub Svc": "Misc-Bd of Pub Svc",
+        "Misc-Building Div": "Misc-Building Div",
+        "Misc-CSB": "Misc-CSB",
+        "Misc-City Emrgcy Mng": "Misc-City Emrgcy Mng",
+        "Misc-Excise": "Misc-Excise",
+        "Misc-Food Control": "Misc-Food Control",
+        "Misc-Health Dir Ofc": "Misc-Health Dir Ofc",
+        "Misc-LRA": "Misc-LRA",
+        "Misc-License Coll": "Misc-License Coll",
+        "Misc-Nbhd Stblizn Tm": "Misc-Nbhd Stblizn Tm",
+        "Misc-Ofc on Disabled": "Misc-Ofc on Disabled",
+        "Misc-PRF Dir Ofc": "Misc-PRF Dir Ofc",
+        "Misc-Parks Div": "Misc-Parks Div",
+        "Misc-Public Safety": "Misc-Public Safety",
+        "Misc-Street Dept": "Misc-Street Dept",
+        "Misc-Street Div": "Misc-Street Div",
+        "Misc-Treasurer": "Misc-Treasurer",
+        "Misc-Water Div": "Misc-Water Div"
+    },
+    "Nuisance Complaint": {
+        "Public Nuisance Rpt": "Public Nuisance Rpt"
+    },
+    "Parks": {
+        "Athletic Fields": "Athletic Fields",
+        "Fountains": "Fountains",
+        "Park Lake": "Park Lake",
+        "Park Restrooms": "Park Restrooms",
+        "Park Sewer Problem": "Park Sewer Problem",
+        "Playground Equipment": "Playground Equipment"
+    },
+    "Prpty Insp Comml": {
+        "Comml Dumpster, Ext": "Comml Dumpster, Ext",
+        "Comml coll after hrs": "Comml coll after hrs",
+        "No comml dumpster": "No comml dumpster",
+        "Smkng Ban Issue": "Smkng Ban Issue"
+    },
+    "Prpty Insp Exterior": {
+        "Alter Hist No Permit": "Alter Hist No Permit",
+        "Bad Drain/Sewer, Ext": "Bad Drain/Sewer, Ext",
+        "Billboard Inspection": "Billboard Inspection",
+        "Building Collapse": "Building Collapse",
+        "Const Hist No Permit": "Const Hist No Permit",
+        "Const No Permit-Ext": "Const No Permit-Ext",
+        "Demolition No Permit": "Demolition No Permit",
+        "Illegl Use-Opn Storg": "Illegl Use-Opn Storg",
+        "Over 4 Pets": "Over 4 Pets",
+        "Parking Lot Cndition": "Parking Lot Cndition",
+        "Ppty Maint Code-Ext": "Ppty Maint Code-Ext",
+        "Public Swim Pool": "Public Swim Pool",
+        "Stagnant Water": "Stagnant Water",
+        "Tire Storage, Ext": "Tire Storage, Ext",
+        "Unsanitary Pets, Ext": "Unsanitary Pets, Ext",
+        "Vacnt Bldg Unsecured": "Vacnt Bldg Unsecured",
+        "Wastewater, Ext": "Wastewater, Ext"
+    },
+    "Prpty Insp Interior": {
+        "Bed Bugs": "Bed Bugs",
+        "Const No Permit-Int": "Const No Permit-Int",
+        "Defective Plumbing": "Defective Plumbing",
+        "Defective Toilet": "Defective Toilet",
+        "Electrical Insp": "Electrical Insp",
+        "Fire Exit Insp": "Fire Exit Insp",
+        "Insufficient Heat": "Insufficient Heat",
+        "Lead Insp": "Lead Insp",
+        "Mechanical Insp": "Mechanical Insp",
+        "Mice Infstation, Int": "Mice Infstation, Int",
+        "Mold, Interior": "Mold, Interior",
+        "No Hot Water, Int": "No Hot Water, Int",
+        "No Smoke Detectors": "No Smoke Detectors",
+        "No Water Supply, Int": "No Water Supply, Int",
+        "Overcrowding": "Overcrowding",
+        "Plumbing Insp": "Plumbing Insp",
+        "Ppty Maint Code-Int": "Ppty Maint Code-Int",
+        "Rat Infestation, Int": "Rat Infestation, Int",
+        "Roach Infestn, Int": "Roach Infestn, Int",
+        "Wastewater, Basement": "Wastewater, Basement"
+    },
+    "Recreation Center": {
+        "Rec Bldg Maintenance": "Rec Bldg Maintenance"
+    },
+    "Recycling": {
+        "Rcy dropoff overflow": "Rcy dropoff overflow",
+        "Rcy pick up svc info": "Rcy pick up svc info",
+        "Recycling not collec": "Recycling not collec"
+    },
+    "Right of Way Issues": {
+        "Bad Condition": "Bad Condition",
+        "Cave-Ins": "Street, alley, or sidewalk cave-in",
+        "Concrete Boulder": "Concrete Boulder",
+        "Concrete Planter": "Concrete Planter",
+        "Curb Repair": "Curb Repair",
+        "Illegal Use": "Illegal Use",
+        "Leaf pick up": "Leaf pick up",
+        "Other Alley Repair": "Other Alley Repair",
+        "Other Street Repair"

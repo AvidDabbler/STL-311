@@ -6,6 +6,486 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -90.23475076009017,
+                    38.71511501764249
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Request to have trash container moved",
+                "REQUESTED_DATETIME": "2021-03-24T15:30:20.620-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63147,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-29.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "REFUSE,",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Move container",
+                "EXPECTED_DATETIME": "2021-03-29T15:30:20.620-06:00",
+                "ADDRESS": "1126 MCLARAN AVE",
+                "SERVICE_REQUEST_ID": 1446204,
+                "ADDRESS_ID": 14248050010,
+                "lt": "-90.23475076009017",
+                "lng": "38.71511501764249",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.71511501764249,-90.23475076009017' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.71511501764249,-90.23475076009017' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.25523753668794,
+                    38.670674899678566
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Pothole in a major/arterial street",
+                "REQUESTED_DATETIME": "2021-03-24T15:29:42.010-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63115,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-27.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "IMG_1834.JPG",
+                "DESCRIPTION": "Potholes - Major St",
+                "EXPECTED_DATETIME": "2021-03-27T15:29:42.010-06:00",
+                "ADDRESS": "2848 N KINGSHIGHWAY BLVD",
+                "SERVICE_REQUEST_ID": 1446203,
+                "ADDRESS_ID": "",
+                "lt": "-90.25523753668794",
+                "lng": "38.670674899678566",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.670674899678566,-90.25523753668794' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.670674899678566,-90.25523753668794' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.30837557712523,
+                    38.61845646896563
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Pothole in a residential street",
+                "REQUESTED_DATETIME": "2021-03-24T15:27:24-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63143,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-01.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Potholes - Residnl",
+                "EXPECTED_DATETIME": "2021-04-01T15:27:24-06:00",
+                "ADDRESS": "2150 MCCAUSLAND AVE",
+                "SERVICE_REQUEST_ID": 1446202,
+                "ADDRESS_ID": "",
+                "lt": "-90.30837557712523",
+                "lng": "38.61845646896563",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.61845646896563,-90.30837557712523' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.61845646896563,-90.30837557712523' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.27903117086366,
+                    38.6710176717839
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Derelict, vandalized, inoperable, or abandoned vehicle",
+                "REQUESTED_DATETIME": "2021-03-24T15:27:17.317-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63112,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-29.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DEPT, 510",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Vehicle Towing",
+                "EXPECTED_DATETIME": "2021-03-29T15:27:17.317-06:00",
+                "ADDRESS": "1477 SHAWMUT PL",
+                "SERVICE_REQUEST_ID": 1446201,
+                "ADDRESS_ID": 13819090180,
+                "lt": "-90.27903117086366",
+                "lng": "38.6710176717839",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.6710176717839,-90.27903117086366' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.6710176717839,-90.27903117086366' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.26788811604793,
+                    38.617761883796916
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Pothole in a residential street",
+                "REQUESTED_DATETIME": "2021-03-24T15:26:59.300-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63110,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-01.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Potholes - Residnl",
+                "EXPECTED_DATETIME": "2021-04-01T15:26:59.300-06:00",
+                "ADDRESS": "4933 SHAW AVE",
+                "SERVICE_REQUEST_ID": 1446200,
+                "ADDRESS_ID": "",
+                "lt": "-90.26788811604793",
+                "lng": "38.617761883796916",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.617761883796916,-90.26788811604793' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.617761883796916,-90.26788811604793' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2395294870864,
+                    38.593198451894736
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Pothole in a residential street",
+                "REQUESTED_DATETIME": "2021-03-24T15:24:35.340-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": "",
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-01.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Potholes - Residnl",
+                "EXPECTED_DATETIME": "2021-04-01T15:24:35.340-06:00",
+                "ADDRESS": "POTOMAC ST & LOUISIANA AVE",
+                "SERVICE_REQUEST_ID": 1446199,
+                "ADDRESS_ID": "",
+                "lt": "-90.2395294870864",
+                "lng": "38.593198451894736",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.593198451894736,-90.2395294870864' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.593198451894736,-90.2395294870864' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.23827484239898,
+                    38.600137566547474
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Graffiti on private property",
+                "REQUESTED_DATETIME": "2021-03-24T15:23:24.430-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63118,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-07.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "OP BRIGHTSIDE,",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Graffiti-Private",
+                "EXPECTED_DATETIME": "2021-04-07T15:23:24.430-06:00",
+                "ADDRESS": "3111 LOUISIANA AVE",
+                "SERVICE_REQUEST_ID": 1446198,
+                "ADDRESS_ID": 11483000170,
+                "lt": "-90.23827484239898",
+                "lng": "38.600137566547474",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.600137566547474,-90.23827484239898' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.600137566547474,-90.23827484239898' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.23442021358969,
+                    38.59119120575549
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Misc request to Land Reutilization Authority (LRA)",
+                "REQUESTED_DATETIME": "2021-03-24T15:20:34.453-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63118,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-23.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "LRA,",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Misc-LRA",
+                "EXPECTED_DATETIME": "2021-04-23T15:20:34.453-06:00",
+                "ADDRESS": "3547 PENNSYLVANIA AVE",
+                "SERVICE_REQUEST_ID": 1446197,
+                "ADDRESS_ID": 11578000320,
+                "lt": "-90.23442021358969",
+                "lng": "38.59119120575549",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.59119120575549,-90.23442021358969' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.59119120575549,-90.23442021358969' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.27504433672443,
+                    38.66682097186175
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Street, alley or sidewalk cave-in",
+                "REQUESTED_DATETIME": "2021-03-24T15:18:01.603-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63112,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-27.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DEPT, 510",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Street, alley, or sidewalk cave-in",
+                "EXPECTED_DATETIME": "2021-03-27T15:18:01.603-06:00",
+                "ADDRESS": "1419 GRANVILLE PL",
+                "SERVICE_REQUEST_ID": 1446196,
+                "ADDRESS_ID": "",
+                "lt": "-90.27504433672443",
+                "lng": "38.66682097186175",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.66682097186175,-90.27504433672443' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.66682097186175,-90.27504433672443' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.24187338925134,
+                    38.602372131957104
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Graffiti on private property",
+                "REQUESTED_DATETIME": "2021-03-24T15:16:58.337-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63118,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-07.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "OP BRIGHTSIDE,",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Graffiti-Private",
+                "EXPECTED_DATETIME": "2021-04-07T15:16:58.337-06:00",
+                "ADDRESS": "3100 S GRAND AVE",
+                "SERVICE_REQUEST_ID": 1446195,
+                "ADDRESS_ID": 11462000010,
+                "lt": "-90.24187338925134",
+                "lng": "38.602372131957104",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.602372131957104,-90.24187338925134' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.602372131957104,-90.24187338925134' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.27508778165168,
+                    38.66676137043957
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Derelict, vandalized, inoperable, or abandoned vehicle",
+                "REQUESTED_DATETIME": "2021-03-24T15:16:53.667-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63112,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-29.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DEPT, 510",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Vehicle Towing",
+                "EXPECTED_DATETIME": "2021-03-29T15:16:53.667-06:00",
+                "ADDRESS": "1417 GRANVILLE PL",
+                "SERVICE_REQUEST_ID": 1446194,
+                "ADDRESS_ID": 13806070320,
+                "lt": "-90.27508778165168",
+                "lng": "38.66676137043957",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.66676137043957,-90.27508778165168' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.66676137043957,-90.27508778165168' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2984391099029,
+                    38.574744470203086
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Inspect city tree",
+                "REQUESTED_DATETIME": "2021-03-24T15:10:51-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63109,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-07.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "FORESTRY,",
+                "STATUS": "",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Inspect City Tree",
+                "EXPECTED_DATETIME": "2021-04-07T15:10:51-06:00",
+                "ADDRESS": "6211 LOUGHBOROUGH AVE",
+                "SERVICE_REQUEST_ID": 1446193,
+                "ADDRESS_ID": 16393000110,
+                "lt": "-90.2984391099029",
+                "lng": "38.574744470203086",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.574744470203086,-90.2984391099029' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.574744470203086,-90.2984391099029' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.25477243405435,
+                    38.61018305048336
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Graffiti on private property",
+                "REQUESTED_DATETIME": "2021-03-24T15:10:31.883-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63110,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-07.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "OP BRIGHTSIDE,",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Graffiti-Private",
+                "EXPECTED_DATETIME": "2021-04-07T15:10:31.883-06:00",
+                "ADDRESS": "4205 BOTANICAL AVE",
+                "SERVICE_REQUEST_ID": 1446192,
+                "ADDRESS_ID": 14931000255,
+                "lt": "-90.25477243405435",
+                "lng": "38.61018305048336",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.61018305048336,-90.25477243405435' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.61018305048336,-90.25477243405435' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.22991202448817,
+                    38.595932542206434
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Trash container is overflowing",
+                "REQUESTED_DATETIME": "2021-03-24T15:09:37.007-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63118,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-27.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "REFUSE,",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "EEAEE220-C0DB-40C4-A655-1EBC196E2F65.jpeg",
+                "DESCRIPTION": "Cntnr overflow/bulky",
+                "EXPECTED_DATETIME": "2021-03-27T15:09:37.007-06:00",
+                "ADDRESS": "3255 CALIFORNIA AVE",
+                "SERVICE_REQUEST_ID": 1446191,
+                "ADDRESS_ID": 11512000340,
+                "lt": "-90.22991202448817",
+                "lng": "38.595932542206434",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.595932542206434,-90.22991202448817' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.595932542206434,-90.22991202448817' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1936631645528,
+                    38.60886518002966
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Pothole in a major/arterial street",
+                "REQUESTED_DATETIME": "2021-03-24T15:05:55.653-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63104,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-27.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Potholes - Major St",
+                "EXPECTED_DATETIME": "2021-03-27T15:05:55.653-06:00",
+                "ADDRESS": "100 MARION ST",
+                "SERVICE_REQUEST_ID": 1446190,
+                "ADDRESS_ID": "",
+                "lt": "-90.1936631645528",
+                "lng": "38.60886518002966",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.60886518002966,-90.1936631645528' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.60886518002966,-90.1936631645528' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.24365325882883,
+                    38.56478520745787
+                ]
+            },
+            "properties": {
+                "SERVICE_NAME": "Inspect sidewalk/request to be added to 50-50 sidewalk repair program",
+                "REQUESTED_DATETIME": "2021-03-24T15:01:06.833-06:00",
+                "STATUS_NOTES": "",
+                "ZIPCODE": 63111,
+                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-07.",
+                "UPDATED_DATETIME": "",
+                "AGENCY_RESPONSIBLE": "STREET DEPT, 510",
+                "STATUS": "OPEN",
+                "MEDIA_URL": "",
+                "DESCRIPTION": "Sidewalk Repair",
+                "EXPECTED_DATETIME": "2021-04-07T15:01:06.833-06:00",
+                "ADDRESS": "5410 MICHIGAN AVE",
+                "SERVICE_REQUEST_ID": 1446189,
+                "ADDRESS_ID": 12836000100,
+                "lt": "-90.24365325882883",
+                "lng": "38.56478520745787",
+                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.56478520745787,-90.24365325882883' target='blank'>Link</a>",
+                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.56478520745787,-90.24365325882883' target='blank'>Link</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -90.24365325882883,
                     38.56478520745787
                 ]
@@ -4515,10 +4995,10 @@
                 "REQUESTED_DATETIME": "2021-03-24T09:44:24.607-06:00",
                 "STATUS_NOTES": "",
                 "ZIPCODE": 63108,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-07.",
-                "UPDATED_DATETIME": "",
+                "SERVICE_NOTICE": "",
+                "UPDATED_DATETIME": "2021-03-24T15:29:59.900-06:00",
                 "AGENCY_RESPONSIBLE": "BUILDING DIV,",
-                "STATUS": "OPEN",
+                "STATUS": "CLOSED",
                 "MEDIA_URL": "",
                 "DESCRIPTION": "Ppty Maint Code-Ext",
                 "EXPECTED_DATETIME": "2021-04-07T09:44:24.607-06:00",
@@ -13486,7 +13966,7 @@
                 "STATUS_NOTES": "",
                 "ZIPCODE": 63110,
                 "SERVICE_NOTICE": "",
-                "UPDATED_DATETIME": "2021-03-24T15:00:27.817-06:00",
+                "UPDATED_DATETIME": "2021-03-24T15:30:03.993-06:00",
                 "AGENCY_RESPONSIBLE": "BUILDING DIV,",
                 "STATUS": "CLOSED",
                 "MEDIA_URL": "",
@@ -25097,7 +25577,7 @@
                 "ZIPCODE": 63111,
                 "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-29.",
                 "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "OFC ON DISABLED,",
+                "AGENCY_RESPONSIBLE": "TRAFFIC DIVISION, 511",
                 "STATUS": "OPEN",
                 "MEDIA_URL": "",
                 "DESCRIPTION": "Disabled Parking",
@@ -29519,486 +29999,6 @@
                 "lng": "38.55926865256443",
                 "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.55926865256443,-90.26473960323246' target='blank'>Link</a>",
                 "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.55926865256443,-90.26473960323246' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.23705870952385,
-                    38.61082970902624
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Request for planting of a new city tree",
-                "REQUESTED_DATETIME": "2021-03-21T15:50:46-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63104,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-04.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "FORESTRY,",
-                "STATUS": "",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Tree Planting request",
-                "EXPECTED_DATETIME": "2021-04-04T15:50:46-06:00",
-                "ADDRESS": "3435 HAWTHORNE BLVD",
-                "SERVICE_REQUEST_ID": 1445038,
-                "ADDRESS_ID": 15015000250,
-                "lt": "-90.23705870952385",
-                "lng": "38.61082970902624",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.61082970902624,-90.23705870952385' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.61082970902624,-90.23705870952385' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.28347760735221,
-                    38.609011215214196
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Debris dumped in the street or alley",
-                "REQUESTED_DATETIME": "2021-03-21T15:20:22-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63139,
-                "SERVICE_NOTICE": "",
-                "UPDATED_DATETIME": "2021-03-23T13:24:58.450-06:00",
-                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
-                "STATUS": "CLOSED",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Debris-alley/street",
-                "EXPECTED_DATETIME": "2021-03-24T15:20:22-06:00",
-                "ADDRESS": "2800 JANUARY AVE",
-                "SERVICE_REQUEST_ID": 1445037,
-                "ADDRESS_ID": 14054120110,
-                "lt": "-90.28347760735221",
-                "lng": "38.609011215214196",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.609011215214196,-90.28347760735221' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.609011215214196,-90.28347760735221' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.28666393538614,
-                    38.5775402099344
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "I'd like information about recycling pick up services",
-                "REQUESTED_DATETIME": "2021-03-21T14:54:33-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63109,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-24.",
-                "UPDATED_DATETIME": "2021-03-24T08:54:31-06:00",
-                "AGENCY_RESPONSIBLE": "REFUSE,",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Rcy pick up svc info",
-                "EXPECTED_DATETIME": "2021-03-24T14:54:33-06:00",
-                "ADDRESS": "5411 HOLLY HILLS AVE",
-                "SERVICE_REQUEST_ID": 1445036,
-                "ADDRESS_ID": 15840000320,
-                "lt": "-90.28666393538614",
-                "lng": "38.5775402099344",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.5775402099344,-90.28666393538614' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.5775402099344,-90.28666393538614' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.29850848064906,
-                    38.65324500215092
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Pet owner is not complying with animal laws",
-                "REQUESTED_DATETIME": "2021-03-21T14:53:55-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63112,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-04.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "ANIMAL CARE,",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Leash Law",
-                "EXPECTED_DATETIME": "2021-04-04T14:53:55-06:00",
-                "ADDRESS": "6158 WESTMINSTER PL",
-                "SERVICE_REQUEST_ID": 1445035,
-                "ADDRESS_ID": 15419000110,
-                "lt": "-90.29850848064906",
-                "lng": "38.65324500215092",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.65324500215092,-90.29850848064906' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.65324500215092,-90.29850848064906' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.2636071137295,
-                    38.572321398844416
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Street, alley or sidewalk cave-in",
-                "REQUESTED_DATETIME": "2021-03-21T14:36:56-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63116,
-                "SERVICE_NOTICE": "",
-                "UPDATED_DATETIME": "2021-03-23T11:46:09-06:00",
-                "AGENCY_RESPONSIBLE": "STREET DEPT, 510",
-                "STATUS": "CLOSED",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Street, alley, or sidewalk cave-in",
-                "EXPECTED_DATETIME": "2021-03-24T14:36:56-06:00",
-                "ADDRESS": "3979 BURGEN AVE",
-                "SERVICE_REQUEST_ID": 1445034,
-                "ADDRESS_ID": "",
-                "lt": "-90.2636071137295",
-                "lng": "38.572321398844416",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.572321398844416,-90.2636071137295' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.572321398844416,-90.2636071137295' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.26152881356687,
-                    38.66306766525586
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Pothole in a major/arterial street",
-                "REQUESTED_DATETIME": "2021-03-21T14:35:22.940-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": "",
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-24.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Potholes - Major St",
-                "EXPECTED_DATETIME": "2021-03-24T14:35:22.940-06:00",
-                "ADDRESS": "N KINGSHIGHWAY BLVD & DR MARTIN LUTHER KING DR",
-                "SERVICE_REQUEST_ID": 1445033,
-                "ADDRESS_ID": "",
-                "lt": "-90.26152881356687",
-                "lng": "38.66306766525586",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.66306766525586,-90.26152881356687' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.66306766525586,-90.26152881356687' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.23291875929525,
-                    38.60678937513942
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Vehicle (operable) illegally parked in right of way",
-                "REQUESTED_DATETIME": "2021-03-21T14:30:24.210-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63104,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-04.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "TREAS PRKG SVC,",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Vehicle-Rt of Way",
-                "EXPECTED_DATETIME": "2021-04-04T14:30:24.210-06:00",
-                "ADDRESS": "3120 SIDNEY ST",
-                "SERVICE_REQUEST_ID": 1445032,
-                "ADDRESS_ID": 11430000131,
-                "lt": "-90.23291875929525",
-                "lng": "38.60678937513942",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.60678937513942,-90.23291875929525' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.60678937513942,-90.23291875929525' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.2290866156956,
-                    38.708663226576185
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Trash container is overflowing",
-                "REQUESTED_DATETIME": "2021-03-21T14:17:57-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63147,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-24.",
-                "UPDATED_DATETIME": "2021-03-23T10:12:53-06:00",
-                "AGENCY_RESPONSIBLE": "REFUSE,",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "BB8346C8-C9B2-4C29-8E2A-DA19647C2245.jpeg",
-                "DESCRIPTION": "Cntnr overflow/bulky",
-                "EXPECTED_DATETIME": "2021-03-24T14:17:57-06:00",
-                "ADDRESS": "758 PONCE AVE",
-                "SERVICE_REQUEST_ID": 1445031,
-                "ADDRESS_ID": 15204000060,
-                "lt": "-90.2290866156956",
-                "lng": "38.708663226576185",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.708663226576185,-90.2290866156956' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.708663226576185,-90.2290866156956' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.25264065838745,
-                    38.649007383332965
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Check Welfare",
-                "REQUESTED_DATETIME": "2021-03-21T14:06:43-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63108,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-04.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "ANIMAL CARE,",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "20210321_130028-01.jpeg",
-                "DESCRIPTION": "Check Welfare ",
-                "EXPECTED_DATETIME": "2021-04-04T14:06:43-06:00",
-                "ADDRESS": "4451 WASHINGTON AVE",
-                "SERVICE_REQUEST_ID": 1445030,
-                "ADDRESS_ID": 13759000340,
-                "lt": "-90.25264065838745",
-                "lng": "38.649007383332965",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.649007383332965,-90.25264065838745' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.649007383332965,-90.25264065838745' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.27970522401056,
-                    38.57466562621302
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Debris dumped in the street or alley",
-                "REQUESTED_DATETIME": "2021-03-21T13:37:44-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63116,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-24.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "393414AE-4F84-472E-AD16-573EDE45992F.jpeg",
-                "DESCRIPTION": "Debris-alley/street",
-                "EXPECTED_DATETIME": "2021-03-24T13:37:44-06:00",
-                "ADDRESS": "6245 GRAVOIS AVE",
-                "SERVICE_REQUEST_ID": 1445028,
-                "ADDRESS_ID": 15296000460,
-                "lt": "-90.27970522401056",
-                "lng": "38.57466562621302",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.57466562621302,-90.27970522401056' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.57466562621302,-90.27970522401056' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.23180246805622,
-                    38.617717596392055
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Pothole in a major/arterial street",
-                "REQUESTED_DATETIME": "2021-03-21T13:09:48.367-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63104,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-24.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Potholes - Major St",
-                "EXPECTED_DATETIME": "2021-03-24T13:09:48.367-06:00",
-                "ADDRESS": "1604 S COMPTON AVE",
-                "SERVICE_REQUEST_ID": 1445027,
-                "ADDRESS_ID": "",
-                "lt": "-90.23180246805622",
-                "lng": "38.617717596392055",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.617717596392055,-90.23180246805622' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.617717596392055,-90.23180246805622' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.22612189478454,
-                    38.66455496025483
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Trash container is out of position",
-                "REQUESTED_DATETIME": "2021-03-21T12:54:44-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63107,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-03-26.",
-                "UPDATED_DATETIME": "2021-03-23T10:12:11-06:00",
-                "AGENCY_RESPONSIBLE": "REFUSE,",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "16163492238948367127644788309615.jpg",
-                "DESCRIPTION": "Cntnr out of postion",
-                "EXPECTED_DATETIME": "2021-03-26T12:54:44-06:00",
-                "ADDRESS": "4019 PALM ST",
-                "SERVICE_REQUEST_ID": 1445026,
-                "ADDRESS_ID": 15192000180,
-                "lt": "-90.22612189478454",
-                "lng": "38.66455496025483",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.66455496025483,-90.22612189478454' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.66455496025483,-90.22612189478454' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.26303389174367,
-                    38.67117140496211
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Debris around a vacant building",
-                "REQUESTED_DATETIME": "2021-03-21T12:46:31-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63113,
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-04.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "",
-                "DESCRIPTION": "Debris-Vacant Bldg",
-                "EXPECTED_DATETIME": "2021-04-04T12:46:31-06:00",
-                "ADDRESS": "5256 NORTHLAND AVE",
-                "SERVICE_REQUEST_ID": 1445025,
-                "ADDRESS_ID": 14503060020,
-                "lt": "-90.26303389174367",
-                "lng": "38.67117140496211",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.67117140496211,-90.26303389174367' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.67117140496211,-90.26303389174367' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.25264294938351,
-                    38.589525456836505
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Inspect for exterior building code violations",
-                "REQUESTED_DATETIME": "2021-03-21T12:38:35.923-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": 63116,
-                "SERVICE_NOTICE": "",
-                "UPDATED_DATETIME": "2021-03-24T11:31:03.457-06:00",
-                "AGENCY_RESPONSIBLE": "BUILDING DIV,",
-                "STATUS": "CLOSED",
-                "MEDIA_URL": "image (4).jpg",
-                "DESCRIPTION": "Ppty Maint Code-Ext",
-                "EXPECTED_DATETIME": "2021-04-04T12:38:35.923-06:00",
-                "ADDRESS": "3923 CHIPPEWA ST",
-                "SERVICE_REQUEST_ID": 1445024,
-                "ADDRESS_ID": 15791000290,
-                "lt": "-90.25264294938351",
-                "lng": "38.589525456836505",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.589525456836505,-90.25264294938351' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.589525456836505,-90.25264294938351' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.18277291562435,
-                    38.635313217805766
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Litter barrel on city sidewalk is overflowing",
-                "REQUESTED_DATETIME": "2021-03-21T12:12:05-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": "",
-                "SERVICE_NOTICE": "",
-                "UPDATED_DATETIME": "2021-03-22T13:39:18-06:00",
-                "AGENCY_RESPONSIBLE": "REFUSE,",
-                "STATUS": "CLOSED",
-                "MEDIA_URL": "44AE8304-D581-47D4-9429-DA27D79C0C66.jpeg",
-                "DESCRIPTION": "Ovrflwng littr barel",
-                "EXPECTED_DATETIME": "2021-03-24T12:12:05-06:00",
-                "ADDRESS": "100 BIDDLE ST",
-                "SERVICE_REQUEST_ID": 1445023,
-                "ADDRESS_ID": "",
-                "lt": "-90.18277291562435",
-                "lng": "38.635313217805766",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.635313217805766,-90.18277291562435' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.635313217805766,-90.18277291562435' target='blank'>Link</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.18196298044535,
-                    38.63394204058801
-                ]
-            },
-            "properties": {
-                "SERVICE_NAME": "Debris on a vacant lot",
-                "REQUESTED_DATETIME": "2021-03-21T12:07:46-06:00",
-                "STATUS_NOTES": "",
-                "ZIPCODE": "",
-                "SERVICE_NOTICE": "Your request will be reviewed shortly and routed to the appropriate operating department. The expected completion date for your type of request is 2021-04-04.",
-                "UPDATED_DATETIME": "",
-                "AGENCY_RESPONSIBLE": "STREET DIVISION, 514",
-                "STATUS": "OPEN",
-                "MEDIA_URL": "AFB8A9E6-51AE-46F6-932D-7D23DBBEDA06.jpeg",
-                "DESCRIPTION": "Debris-Vacant Lot",
-                "EXPECTED_DATETIME": "2021-04-04T12:07:46-06:00",
-                "ADDRESS": "45 CARR ST",
-                "SERVICE_REQUEST_ID": 1445022,
-                "ADDRESS_ID": "",
-                "lt": "-90.18196298044535",
-                "lng": "38.63394204058801",
-                "STREETVIEW": "<a href='http://maps.google.com/maps?q=&layer=c&cbll=38.63394204058801,-90.18196298044535' target='blank'>Link</a>",
-                "DIRECTIONS": "<a href='http://maps.google.com/maps?daddr=38.63394204058801,-90.18196298044535' target='blank'>Link</a>"
             }
         }
     ]

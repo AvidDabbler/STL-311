@@ -205,7 +205,7 @@ export default function Map() {
                     }]
                 });
 
-                view.ui.add(legend, "bottom-right");
+                view.ui.add(legend, "top-right");
                 view.ui.add(locate, "top-left"); 
 
                     
