@@ -10,7 +10,7 @@ export default function Add({setFormVisability, formVisability}) {
     }
 
     return (
-        <div className='bottom-right-button'>
+        <div className={`bottom-right-button ${!formVisability ? '' : 'close'}`}>
             <AddCircleIcon 
                 color="primary" style={{ fontSize: 60 }}
                 onClick={ e=> clickHandle(e) } />

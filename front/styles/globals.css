@@ -15,6 +15,11 @@ a {
   box-sizing: border-box;
 }
 
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
 .bottom-right-button {
   z-index: 102;
   position: absolute;
@@ -30,6 +35,8 @@ a {
   left: 0px;
   height: 100vh;
   width: 100%;
+  padding:10%;
+  text-align: center;
   
 }
 
@@ -43,4 +50,8 @@ a {
   padding: 15px 30px;
   margin: 5% 10%;
   border-radius: 10px;
+}
+
+.close {
+  transform: rotate(45deg);
 }
