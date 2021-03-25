@@ -3,6 +3,7 @@ import Select from '@material-ui/core/Select';
 import FormHelperText from '@material-ui/core/FormHelperText';
 import TextField from '@material-ui/core/TextField';
 import GpsFixedIcon from '@material-ui/icons/GpsFixed';
+import CheckIcon from '@material-ui/icons/Check';
 
 
 const DropdownField = ({list, obj, setFunction, desc}) => {
@@ -94,12 +95,14 @@ export default function NewRequest({ formVisability, dropdown}) {
                             rows={4}
                             onChange={e=>setLongDesc(e.target.value)}
                             />
+                        <input type="file" style={{ paddingTop: '20px'}} />
                         <div className='row' style={{ padding: '20px' }}>
                             <GpsFixedIcon
                                 color="primary" style={{ fontSize: 50, paddingRight: '20px' }}
                                 onClick={ e=> getCoord(e) }
                                 />
-                            <p>Share your location</p>
+                            <p style={{ paddingRight: '20px' }}>Share your location </p>
+                            {loc ? <CheckIcon style={{ fontSize: 50, paddingRight: '20px', color: 'green'  }} /> : ''}
                         </div>
                     </form>
                 </div> :
