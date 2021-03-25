@@ -2,6 +2,8 @@ import React, {useState} from 'react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
+import dropdown from '../data/dropdown.json'
+
 // Components
 import Map from '../components/Map'
 import Add from '../components/Add'
@@ -14,7 +16,7 @@ export default function Home() {
     <div>
       <Map />
       <Add setFormVisability={setFormVisability} formVisability={formVisability} />
-      <NewRequest formVisability={formVisability} />
+      <NewRequest formVisability={formVisability} dropdown={dropdown} />
     </div>
   )
 }
