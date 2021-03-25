@@ -5,9 +5,8 @@ import AddCircleIcon from '@material-ui/icons/AddCircle';
 export default function Add({setFormVisability, formVisability}) {
 
     const clickHandle = (e) => {
-        setFormVisability(true)
-        console.log('here')
-        console.log(formVisability)
+        setFormVisability(!formVisability)
+
     }
 
     return (

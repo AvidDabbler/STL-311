@@ -16,10 +16,10 @@ a {
 }
 
 .bottom-right-button {
-  z-index: 100;
+  z-index: 102;
   position: absolute;
   bottom: 5%;
-  right: 3%;
+  right: 5%;
 }
 
 .new-request-form {
@@ -30,4 +30,17 @@ a {
   left: 0px;
   height: 100vh;
   width: 100%;
+  
+}
+
+.form {
+  padding-top: 20%;
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  padding: 15px 30px;
+  margin: 5% 10%;
+  border-radius: 10px;
 }
